@@ -7,4 +7,5 @@ The sys, time, and random modules are part of Python's standard library, so they
 
 
 For installing pygame just run -> pip install pygame 
+
 on terminal. 
